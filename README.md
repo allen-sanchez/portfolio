@@ -2,7 +2,7 @@
 
 This repository contains my IT support projects, hands-on labs, and certifications. It also powers my GitHub Pages website.
 
-**Live Site (after enabling Pages):** `https://YOUR-USERNAME.github.io/portfolio/`
+**Live Site:** `https://allen-sanchez.github.io/portfolio/`
 
 ---
 
