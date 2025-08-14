@@ -1,6 +1,6 @@
 # 💻 IT Support & Technical Portfolio
 
-Hi! I’m **Allen Sanchez**, an aspiring IT Support Specialist passionate about troubleshooting, system administration, networking, and security.  
+Hi! I’m **Mick Allen Sanchez**, an aspiring IT Support Specialist passionate about troubleshooting, system administration, networking, and security.  
 This site showcases my projects, hands-on labs, and certifications.
 
 ---
@@ -16,8 +16,7 @@ View the full list and downloadable PDFs in the [Certifications folder](certific
 
 | Certification | Issuer | Date Earned | Verify |
 |---------------|--------|-------------|--------|
-| Google IT Support Professional Certificate | Google/Coursera | August 2025 | [Verify Here](https://coursera.org/verify/XXXX) |
-| CompTIA A+ | CompTIA | August 2025 | [Verify Here](https://verify.comptia.org/XXXX) |
+| Google IT Support Fundamentals Certificate | Google/Coursera | August 2025 | [Verify Here](https://coursera.org/share/7f13c9e242ad1ea5b76523ffcf2023b5) |
 
 ---
 
@@ -31,5 +30,5 @@ View the full list and downloadable PDFs in the [Certifications folder](certific
 ---
 
 ## 📫 Contact
-- **LinkedIn:** https://linkedin.com/in/yourprofile  
-- **Email:** your.email@example.com
+- **LinkedIn:** www.linkedin.com/in/mickallen-sanchez  
+- **Email:** mickallen.sanchez@yahoo.com
