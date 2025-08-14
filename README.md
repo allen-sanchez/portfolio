@@ -64,4 +64,4 @@ You can view my full list of certifications [here](./certifications/certificatio
 ---
 
 > 💡 **Tip:** This repository is best viewed through my live portfolio site:
-> [🌐 View Portfolio on GitHub Pages](https://YOUR-USERNAME.github.io/REPO-NAME/)
+> [🌐 View Portfolio on GitHub Pages](https://allen-sanchez.github.io/portfolio/)
