@@ -1,4 +1,3 @@
-# 💻 IT Support & Technical Portfolio
 
 Hi! I’m **Mick Allen Sanchez**, an aspiring IT Support Specialist passionate about troubleshooting, system administration, networking, and security.  
 This site showcases my projects, hands-on labs, and certifications.
