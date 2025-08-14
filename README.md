@@ -59,7 +59,7 @@ You can view my full list of certifications [here](./certifications/certificatio
 
 * **Email:** [mickallen.sanchez@yahoo.com](mailto:mickallen.sanchez@yahoo.com)
 * **LinkedIn:** [linkedin.com/in/mickallen-sanchez](https://linkedin.com/in/mickallen-sanchez)
-* **GitHub:** [github.com/allen-](https://github.com/YOUR-USERNAME)sanchez
+* **GitHub:** [github.com/allen-](https://github.com/allen-sanchez)
 
 ---
 
