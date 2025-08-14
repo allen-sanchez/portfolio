@@ -1,37 +1,67 @@
-# 💻 IT Support & Technical Portfolio
+# 💼 Mick Allen Sanchez – Portfolio & Certifications
 
-This repository contains my IT support projects, hands-on labs, and certifications. It also powers my GitHub Pages website.
-
-**Live Site:** `https://allen-sanchez.github.io/portfolio/`
-
----
-
-## 📂 Structure
-```
-/ (root)
-  _config.yml           # Pages settings
-  index.md              # Homepage
-  README.md             # Repo readme (you are here)
-  /projects             # Project write-ups
-  /certifications       # PDFs + certification list
-  /images               # Profile & thumbnails
-```
+Welcome to my professional portfolio repository!
+This space contains my certifications, projects, and skills to showcase my expertise in **IT Support** and related fields.
 
 ---
 
-## 🚀 Getting Started
-1. Upload this entire folder to a GitHub repo named `portfolio` (or any name you prefer).
-2. Go to **Settings → Pages → Source**: select **main** and **/** (root). Save.
-3. Your site will publish at `https://YOUR-USERNAME.github.io/REPO-NAME/`.
+## 📜 Certifications
+
+You can view my full list of certifications [here](./certifications/certification-list.md).
 
 ---
 
-## ✍️ Customize
-- Replace placeholders (verification links, dates, contact info).
-- Add screenshots to `/images` and thumbnails to `/images/cert-thumbnails`.
-- Create more project pages inside `/projects` and link them from `index.md`.
+## 🛠 Technical Skills
+
+**🖥 Hardware & Software Support**
+
+* Computer Hardware & Software Troubleshooting
+* Windows OS Installation & Maintenance
+* PC Reimaging & OS Deployment
+* Asset Inventory & Documentation
+
+**👤 User & Account Management**
+
+* Basic Active Directory (User Management, Password Resets)
+
+**🌐 Networking Basics**
+
+* LAN/WAN Troubleshooting
+* Basic TCP/IP & Connectivity Checks
+
+**📦 Productivity Tools**
+
+* Microsoft Office Suite (Word, Excel, PowerPoint)
+* Coursera (Online Learning & Certifications)
+
+**🛠 IT Support Processes**
+
+* Ticket Logging & Tracking
+* Escalation Workflow Familiarity
+* Routine Maintenance Procedures
+
+**💡 Core Competencies**
+
+* Adaptability
+* Critical Thinking
+* Collaboration in Team Environments
 
 ---
 
-## 📄 License
-Feel free to reuse this template for your own portfolio.
+## 📂 Projects
+
+* **IT Support Fundamentals Practice Lab** – Hands-on troubleshooting scenarios
+* **Portfolio Website** – Deployed with GitHub Pages to share my work and credentials
+
+---
+
+## 📫 Contact
+
+* **Email:** [mickallen.sanchez@yahoo.com](mailto:mickallen.sanchez@yahoo.com)
+* **LinkedIn:** [linkedin.com/in/mickallen-sanchez](https://linkedin.com/in/mickallen-sanchez)
+* **GitHub:** [github.com/allen-](https://github.com/YOUR-USERNAME)sanchez
+
+---
+
+> 💡 **Tip:** This repository is best viewed through my live portfolio site:
+> [🌐 View Portfolio on GitHub Pages](https://YOUR-USERNAME.github.io/REPO-NAME/)
